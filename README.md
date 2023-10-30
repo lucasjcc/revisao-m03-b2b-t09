@@ -18,8 +18,9 @@ Sua API deve permitir:
 ## Roteiro de aula
 
 - Configurações iniciais
-  - [ x ] inicialização do projeto: 15h25
-  - [ x ] configuração do editorconfig: 15h40
+  - [x] inicialização do projeto: 15h25
+  - [x] configuração do editorconfig: 15h40
 - Criação do banco de dados: 15h55
-- Configuração do `pg`:
-- Cadastrar usuário:
+- Configuração do `pg`: ?
+- Cadastrar usuário: ?
+- Login: ?
